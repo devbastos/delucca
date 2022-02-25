@@ -1,0 +1,21 @@
+.btn_footer {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    background-color: #318eeb;
+    color: white;
+    height: 3rem;
+    width: 10rem;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+    margin-bottom: 2.3rem;
+}
+
+.btn:hover {
+    background-color: rgb(27, 116, 203);
+    color: white;
+    height: 3.5rem;
+    width: 11rem;
+}

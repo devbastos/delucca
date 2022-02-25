@@ -1,0 +1,27 @@
+.footer {
+    background-color: #144383;
+}
+
+.icones p {
+    color: white;
+    margin-top: 4rem;
+    margin-bottom: -1rem;
+    display: flex;
+    justify-content: start;
+    font-size: 1.5rem;
+}
+
+.icones i {
+    display: inline-flex;
+    justify-content: end;
+    background-color: #fff;
+    padding: 0.7rem;
+    border-radius: 33rem;
+    color: #144383;
+    font-size: 1.5rem;
+    margin-top: 0.3rem;
+}
+
+a {
+    text-decoration: none;
+}

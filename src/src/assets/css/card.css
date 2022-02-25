@@ -1,0 +1,21 @@
+.card {
+    box-shadow: 4px 4px 4px #999;
+}
+
+.card-img-top {
+    margin-left: 4rem;
+}
+
+.card-title {
+    color: #144383;
+}
+
+h1 {
+    color: #144383;
+}
+
+.card-footer {
+    background-color: #144383;
+    height: 1.3rem;
+    margin-bottom: -0.1rem;
+}
